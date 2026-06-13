@@ -251,3 +251,5 @@ This video demonstrates:
 - PDF ingestion
 - Retrieval workflow
 - Incident response generation
+
+<img width="452" height="294" alt="Image" src="https://github.com/user-attachments/assets/dde9dbf7-a027-4054-b847-41a610c7eb8e" />
