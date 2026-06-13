@@ -9,6 +9,8 @@ The system analyzes security incident tickets, retrieves relevant evidence from 
 
 The application is built using Streamlit, Google Gemini, ChromaDB, and a RAG pipeline that combines semantic retrieval with large language model reasoning.
 
+<img width="452" height="294" alt="Image" src="https://github.com/user-attachments/assets/dde9dbf7-a027-4054-b847-41a610c7eb8e" />
+
 ---
 
 ## Features
@@ -251,5 +253,3 @@ This video demonstrates:
 - PDF ingestion
 - Retrieval workflow
 - Incident response generation
-
-<img width="452" height="294" alt="Image" src="https://github.com/user-attachments/assets/dde9dbf7-a027-4054-b847-41a610c7eb8e" />
