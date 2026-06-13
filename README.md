@@ -238,4 +238,4 @@ streamlit run app.py
 
 **R Supriya**
 
-Sentinel Incident Response – Enterprise RAG Workflow Automation for SOC Incident Response.
+Sentinel Incident Response – RAG Workflow Automation for SOC Incident Response.
