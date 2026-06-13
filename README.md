@@ -238,3 +238,16 @@ streamlit run app.py
 **R Supriya**
 
 Sentinel Incident Response – RAG Workflow Automation for SOC Incident Response.
+
+
+## Video Demonstration
+
+Video Presentation:
+https://drive.google.com/file/d/1qKEPnXUBUP-Tc5hxk709WimAesWMdNfG/view?usp=sharing
+
+This video demonstrates:
+- Application overview
+- RAG architecture
+- PDF ingestion
+- Retrieval workflow
+- Incident response generation
