@@ -233,13 +233,6 @@ streamlit run app.py
 
 ---
 
-## Author
-
-**R Supriya**
-
-Sentinel Incident Response – RAG Workflow Automation for SOC Incident Response.
-
-
 ## Video Demonstration
 
 Video Presentation:
@@ -251,6 +244,8 @@ This video demonstrates:
 - PDF ingestion
 - Retrieval workflow
 - Incident response generation
+
+## Application Preview
 
 <img width="452" height="294" alt="Image" src="https://github.com/user-attachments/assets/dde9dbf7-a027-4054-b847-41a610c7eb8e" />
 
